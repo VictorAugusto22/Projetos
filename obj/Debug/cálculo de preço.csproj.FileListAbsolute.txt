@@ -1,0 +1,10 @@
+C:\projetos\cálculo de preço\bin\Debug\cálculo de preço.exe.config
+C:\projetos\cálculo de preço\bin\Debug\cálculo de preço.exe
+C:\projetos\cálculo de preço\bin\Debug\cálculo de preço.pdb
+C:\projetos\cálculo de preço\obj\Debug\cálculo de preço.csproj.AssemblyReference.cache
+C:\projetos\cálculo de preço\obj\Debug\cálculo_de_preço.Form1.resources
+C:\projetos\cálculo de preço\obj\Debug\cálculo_de_preço.Properties.Resources.resources
+C:\projetos\cálculo de preço\obj\Debug\cálculo de preço.csproj.GenerateResource.cache
+C:\projetos\cálculo de preço\obj\Debug\cálculo de preço.csproj.CoreCompileInputs.cache
+C:\projetos\cálculo de preço\obj\Debug\cálculo de preço.exe
+C:\projetos\cálculo de preço\obj\Debug\cálculo de preço.pdb
